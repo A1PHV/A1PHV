@@ -17,6 +17,10 @@ Main information:
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Windows" width="32px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
 
+<br/>
+<br/>
+<br/>
+
 ### Contact me
 
 Telegram: [@xxxm3gv](https://t.me/xm333gv)
