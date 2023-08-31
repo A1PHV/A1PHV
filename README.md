@@ -3,9 +3,9 @@
 ### In the past i was a developer of desktop applications and network services, tried myself in ML and game development, now I work in the information security
 
 ### Main information:
-:blue_book: 2nd course of study at the MEPhI
-:eyeglasses: Playing CTF
-:trophy: Prize-winner/winner of many engineering competitions
+- :blue_book: 2nd course of study at the MEPhI
+- :eyeglasses: Playing CTF
+- :trophy: Prize-winner/winner of many engineering competitions
 
 ### Skills and Tools
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
