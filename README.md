@@ -2,7 +2,7 @@
 
 ### In the past i was a developer of desktop applications and network services, tried myself in ML and game development, now I work in the information security
 
-Main information:
+### Main information:
 :blue_book: 2nd course of study at the MEPhI
 :eyeglasses: Playing CTF
 :trophy: Prize-winner/winner of many engineering competitions
