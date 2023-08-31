@@ -18,8 +18,6 @@ Main information:
 <img align="left" alt="Windows" width="32px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
 
 <br/>
-<br/>
-<br/>
 
 ### Contact me
 
