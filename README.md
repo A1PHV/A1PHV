@@ -22,8 +22,8 @@
 
 ### Contact me
 
-Telegram: [@xxxm3gv](https://t.me/xm333gv)
-VK: https://vk.com/a1phv
+- Telegram: [@xxxm3gv](https://t.me/xm333gv)
+- VK: https://vk.com/a1phv
 
 <!--
 **A1PHV/A1PHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
